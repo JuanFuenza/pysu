@@ -1,3 +1,3 @@
 # pysu
 
-basically a copy of the game osu!
+basically a copy of the game osu! but with Python
